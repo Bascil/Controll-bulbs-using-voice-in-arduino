@@ -5,11 +5,11 @@ What you need
 
 -Computer running on Windows Vista/7/8/10
 
--Microsoft Visual Studio
+-Microsoft Visual Studio 2010
 
--Source code written in C#
+-Source code written in C#     
 
--Windows speech recognition Macros 
+-Windows speech recognition Macros https://www.microsoft.com/en-us/download/confirmation.aspx?id=13045
 
 -Arduino Code
 
